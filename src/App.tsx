@@ -1,4 +1,4 @@
-import { characters, teams, banners, goals, guideHtml } from './seed';
+import { characters, teams, banners, goals, guideHtml } from './data/seed';
 
 const selectedCharacter = characters[1];
 
